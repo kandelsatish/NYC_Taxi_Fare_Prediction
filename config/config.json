@@ -1,0 +1,26 @@
+{
+    "__name__":"NYC_Taxi_Fare_Prediction",
+    "__version__": "1.0.0",
+    "python_path":"C:\\Users\\satis\\AppData\\Local\\Programs\\Python\\Python311\\",
+    "connection":{
+        "mysql":{
+            "host":"xxxxx",
+            "user":"xxxx",
+            "password":"xxxx",
+            "database":"xxxx",
+            "port":"xxxxx"
+        },
+        "mongodb":{
+            "host":"xxxxx",
+            "user":"xxxx",
+            "password":"xxxx",
+            "database":"xxxx",
+            "port":"xxxx"
+        }
+    },
+    "raw_db":"xxxx",
+    "processed_db":"xxxx",
+    "raw_data":"",
+    "processed_data":"",
+    "max_rows":30000
+}
