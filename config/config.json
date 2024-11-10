@@ -4,11 +4,11 @@
     "python_path":"C:\\Users\\satis\\AppData\\Local\\Programs\\Python\\Python311\\",
     "connection":{
         "mysql":{
-            "host":"xxxxx",
-            "user":"xxxx",
-            "password":"xxxx",
-            "database":"xxxx",
-            "port":"xxxxx"
+            "host":"127.0.0.1",
+            "user":"root",
+            "password":"",
+            "database":"NYC_Taxt_Data",
+            "port":3306
         },
         "mongodb":{
             "host":"xxxxx",
@@ -24,3 +24,4 @@
     "processed_data":"",
     "max_rows":30000
 }
+
